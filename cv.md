@@ -32,3 +32,17 @@ function removeFirstOccurrences(str, value) {
 ```
 
 
+**WORK HISTORY**
+* Online courses in Rolling scopes school “JavaScript/Front-end. Stage 0”
+* Online Code-basics course “JavaScript”
+* Online Code-basics courses “HTML5”, “CSS3”
+
+
+**EDUCATION**
+* The student of the Academy of Public Administration under the aegis of the President of the Republic of Belarus, Minsk. 
+
+
+**FOREIGN LANGUAGES**
+* English language, level B2
+
+

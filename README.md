@@ -2,4 +2,4 @@
 
 
 CV:
-https://rasberry-girl.github.io/rsschool-cv/cv
+https://github.com/Rasberry-girl/rsschool-cv.git

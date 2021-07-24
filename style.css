@@ -1,0 +1,42 @@
+mark {
+    text-shadow: 0 -1px rgb(109, 159, 235); 
+    color: black; 
+    background-color: white;
+    }
+   /* main {
+        position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+    } */
+    img{
+
+    }
+    h1, h2 {
+        margin-left: 5%;
+    }
+    .textcols {
+        white-space: nowrap;
+    }
+    .col2 {
+        display: inline-block;
+        white-space: normal;	
+        width: 40%;
+        vertical-align: top;
+    }
+    p.col2{
+        margin-left: 2%;
+        text-indent: 20px;
+    }
+    ul.col2 {
+        margin-left: 20%;
+    }
+    footer {
+        text-align: center;
+    }
+    img {
+        width: 70px;
+        height: 50px;
+        align-self: right;
+    }
